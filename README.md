@@ -1,5 +1,12 @@
 # flawless_scripts
 
+## To run
+python3 train.py
+
+## Existing solution Accuracy results on test set - 96%
+
+
+
 ## Main tasks
 
 Task 1: Done
